@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import me from '../../assets/me.jpg'
+import me from '../../assets/me-4.png'
 import HeaderSocials  from './HeaderSocials'
 
 

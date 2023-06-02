@@ -38,7 +38,8 @@ body{
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  /* background-image: url(../src/assets/hey.jpg); */
+  /* background-image: url(../src/assets/geo-removebg-preview.png);
+  background-size: contain; */
  
 }
 
